@@ -1,4 +1,7 @@
 # Planning document
+## Info
+[Project requirements and info](https://github.com/fullstack-hy2020/misc/blob/master/project.md)
+[General project and course info](https://fullstackopen.com/en/part0/general_info#the-course-exam)
 
 ## Scraper Features
 1. Support for different types of selectors, such as CSS selectors, XPath expressions, and regular expressions, to extract data from various sources.
